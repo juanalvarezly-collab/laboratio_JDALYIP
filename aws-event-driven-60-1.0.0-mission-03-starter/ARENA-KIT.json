@@ -1,0 +1,12 @@
+{
+  "files": {
+    ".github/workflows/app-integration-tests.yml": "cf50f0e4c80a55769e26470afa49fccc61f8164186e185d32d62d9639111d2fa",
+    "MISSION-03.md": "81c1b196991ff639bbf4594f3de8adb53f2fadeefce03062d0ed364bf5254e63",
+    "game-packs/aws-event-driven/functions/inventory/handler.py": "23cd3a2253ada3f667ca72a39d3b9be83d24ad25c9e11440011b54b6f4e09895",
+    "game-packs/aws-event-driven/functions/payments/handler.py": "3eaad8ed2942396284d3b6375b362ab0b4ce7b48d1915729348822f4af9d2b44"
+  },
+  "game_pack": "aws-event-driven-60",
+  "materials_revision": 1,
+  "mission_id": "mission-03",
+  "pack_version": "1.0.0"
+}
